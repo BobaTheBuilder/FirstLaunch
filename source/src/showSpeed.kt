@@ -1,7 +1,11 @@
-class Speed (val _speed: Int){
-    val speed = _speed
-
+data class Speed (val speed: Int ){
+    constructor(): this(0)
     fun showSpeedConsole(){
         println("Current speed is equals to $speed km/h.")
     }
 }
+
+
+
+
+
