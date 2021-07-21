@@ -1,6 +1,3 @@
 interface IWalker {
     fun walk()
 }
-
-
-
