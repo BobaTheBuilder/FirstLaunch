@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="309c8742-033d-473d-bf6a-048dd705982f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/src/iWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/iWalker.kt" afterDir="false" />
     </list>
@@ -36,7 +35,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Kotlin.IWalkerKt">
+  <component name="RunManager" selected="Kotlin.GoodWalkerKt">
+    <configuration name="GoodWalkerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoodWalkerKt" />
+      <module name="source" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IWalkerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IWalkerKt" />
       <module name="source" />
@@ -53,6 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.GoodWalkerKt" />
         <item itemvalue="Kotlin.IWalkerKt" />
         <item itemvalue="Kotlin.ShowSpeedKt" />
       </list>
