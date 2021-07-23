@@ -1,7 +1,5 @@
 class GoodWalker(private val velocity: Int) : IWalker {
-    override fun walk() {
-        val speedOfGoodWalker: Speed = Speed(velocity)
-        println("I`m a good walker, and my ")
-        speedOfGoodWalker.showSpeedConsole()
+    override fun walk(speed: Int) {
+        println("I`m a good walker, and my speed is $velocity")
     }
 }

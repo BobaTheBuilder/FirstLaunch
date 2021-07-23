@@ -1,3 +1,3 @@
 interface IWalker{
-    fun walk()
+    fun walk(speed: Int)
 }

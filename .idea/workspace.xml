@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="87da6012-5bb8-4fc4-9cf8-e1cab1bb5fe4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/src/GoodWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/GoodWalker.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/src/Human.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/Human.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/src/iWalker.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/src/IWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/IWalker.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/src/SadWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/SadWalker.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/src/ZombieWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/ZombieWalker.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,6 +118,11 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/source/src/main.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
