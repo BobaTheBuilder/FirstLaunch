@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="309c8742-033d-473d-bf6a-048dd705982f" name="Default Changelist" comment="">
+    <list default="true" id="87da6012-5bb8-4fc4-9cf8-e1cab1bb5fe4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/src/iWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/iWalker.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Kotlin.GoodWalkerKt">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="GoodWalkerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GoodWalkerKt" />
       <module name="source" />
@@ -43,8 +42,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HumanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HumanKt" />
+      <module name="source" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IWalkerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IWalkerKt" />
+      <module name="source" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
       <module name="source" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,6 +72,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.HumanKt" />
         <item itemvalue="Kotlin.GoodWalkerKt" />
         <item itemvalue="Kotlin.IWalkerKt" />
         <item itemvalue="Kotlin.ShowSpeedKt" />
