@@ -1,7 +1,5 @@
-open class Human(var speed: Int =0, var weight: Int =0, var height: Int = 0, var gender: String = "" ): IWalker {
-    override fun walk() {
-        println("I walk with speed $speed km/h")
-    }
+open class Human(var speed: Int =0, var weight: Int =0, var height: Int = 0, var gender: String = "", var Interface: IWalker? = null ){
+
 }
 
 object HumanFactory{

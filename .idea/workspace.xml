@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="87da6012-5bb8-4fc4-9cf8-e1cab1bb5fe4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/src/Human.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/Human.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/src/iWalker.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +86,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="309c8742-033d-473d-bf6a-048dd705982f" name="Default Changelist" comment="" />
+      <changelist id="87da6012-5bb8-4fc4-9cf8-e1cab1bb5fe4" name="Default Changelist" comment="" />
       <created>1626786227903</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
