@@ -1,6 +1,4 @@
-open class Human(var speed: Int =0, var weight: Int =0, var height: Int = 0, var gender: String = "", var Interface: IWalker? = null ){
-
-}
+open class Human(var speed: Int =0, var weight: Int =0, var height: Int = 0, var gender: String = "", var Interface: IWalker? = null ){}
 
 object HumanFactory{
     fun generateNewHuman (): Human{
