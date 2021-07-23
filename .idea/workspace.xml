@@ -7,8 +7,10 @@
       <change beforePath="$PROJECT_DIR$/source/src/Human.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/Human.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/src/IWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/IWalker.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/src/SadWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/SadWalker.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/src/SheeshWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/SheeshWalker.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/src/ZombieWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/ZombieWalker.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/src/showSpeed.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/showSpeed.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,11 +120,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/source/src/main.kt</url>
-          <line>7</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

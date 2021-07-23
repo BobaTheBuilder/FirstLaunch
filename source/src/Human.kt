@@ -1,4 +1,4 @@
-open class Human(var speed: Int =0, var weight: Int =0, var height: Int = 0, var gender: String = "", var Interface: IWalker? = null ){}
+open class Human(var speed: Int =0, var weight: Int =0, var height: Int = 0, var gender: String = "", var walker: IWalker? = null ){}
 
 object HumanFactory{
     fun generateNewHuman (): Human{
@@ -8,7 +8,7 @@ object HumanFactory{
             human.gender = "Male"
             human.weight = (60..200).random()
             human.height = (160..220).random()
-            human.speed = (1..15).random()
+            human.speed = (9..15).random()
         }
         else{
             human.gender = "Female"
@@ -16,8 +16,20 @@ object HumanFactory{
             human.height = (150..180).random()
             human.speed = (1..10).random()
         }
-        human.Interface = SheeshWalker
-
+        when (human.speed){
+            in 1..3 -> {
+                human.walker = ZombieWalker(human.speed)
+            }
+            in 4..6 -> {
+                human.walker = SadWalker(human.speed)
+            }
+            in 7..10 -> {
+            human.walker = GoodWalker(human.speed)
+            }
+            in 11..15 -> {
+                human.walker = SheeshWalker(human.speed)
+            }
+        }
         return human
     }
 }
