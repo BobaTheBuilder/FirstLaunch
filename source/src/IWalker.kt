@@ -1,0 +1,3 @@
+interface IWalker{
+    fun walk()
+}

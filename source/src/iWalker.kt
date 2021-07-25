@@ -1,3 +1,0 @@
-interface IWalker {
-    fun walk()
-}
