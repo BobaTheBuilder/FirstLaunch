@@ -6,8 +6,8 @@ class SadWalkerTest {
     fun `Should return string with exact same speed and name of walker specified in SadWalker class`() {
         val speed = 15
 
-        val actual = SadWalker(speed)
+        val actual = SadWalker(speed).walk()
         val expected = "I`m a sad walker, and my speed is $speed km/h"
-        assertEquals(expected, actual.walk())
+        assertEquals(expected, actual)
     }
 }
