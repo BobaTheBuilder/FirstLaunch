@@ -1,3 +1,3 @@
-interface IWalker{
-    fun walk()
+interface IWalker {
+    fun walk(): String
 }

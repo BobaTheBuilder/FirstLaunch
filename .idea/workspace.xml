@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87da6012-5bb8-4fc4-9cf8-e1cab1bb5fe4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/src/GoodWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/GoodWalker.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/src/Human.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/Human.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/src/IWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/IWalker.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/src/SadWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/SadWalker.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/src/SheeshWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/SheeshWalker.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/src/ZombieWalker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/ZombieWalker.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/src/showSpeed.kt" beforeDir="false" afterPath="$PROJECT_DIR$/source/src/showSpeed.kt" afterDir="false" />
-    </list>
+    <list default="true" id="87da6012-5bb8-4fc4-9cf8-e1cab1bb5fe4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -33,58 +24,88 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="15" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.ktlint" />
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt">
-    <configuration name="GoodWalkerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GoodWalkerKt" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in source">
+    <configuration name="All in source" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="source" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HumanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HumanKt" />
+    <configuration name="SheeshWalkerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="source" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SheeshWalkerTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IWalkerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IWalkerKt" />
+    <configuration name="SheeshWalkerTest.A B C  SSSS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="source" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SheeshWalkerTest" />
+      <option name="METHOD_NAME" value="A B C  SSSS" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="SheeshWalkerTest.Should return string with exact" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="source" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SheeshWalkerTest" />
+      <option name="METHOD_NAME" value="Should return string with exact" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowSpeedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShowSpeedKt" />
+    <configuration name="SheeshWalkerTest.Should return string with velocity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="source" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SheeshWalkerTest" />
+      <option name="METHOD_NAME" value="Should return string with velocity" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainKt" />
-        <item itemvalue="Kotlin.HumanKt" />
-        <item itemvalue="Kotlin.GoodWalkerKt" />
-        <item itemvalue="Kotlin.IWalkerKt" />
-        <item itemvalue="Kotlin.ShowSpeedKt" />
+        <item itemvalue="JUnit.All in source" />
+        <item itemvalue="JUnit.SheeshWalkerTest.Should return string with velocity" />
+        <item itemvalue="JUnit.SheeshWalkerTest.Should return string with exact" />
+        <item itemvalue="JUnit.SheeshWalkerTest" />
+        <item itemvalue="JUnit.SheeshWalkerTest.A B C  SSSS" />
       </list>
     </recent_temporary>
   </component>
@@ -114,13 +135,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/source/src/showSpeed.kt</url>
-          <properties class="Speed" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassNotFoundException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
